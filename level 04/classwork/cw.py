@@ -1,3 +1,5 @@
+# task 2
+
 a = 10 + 5
 print(a)
 
@@ -10,13 +12,14 @@ print(c)
 d = 15 / 4
 print(d)
 
+# task 3
 
 level = 0
 level = 5
+#level = level * 3
+level *= 3
 
-for i in range (3)
-level += 1
-
+# task 1
 
 fullname = "natali bajelidze"
 hobby = "cooking"

@@ -1,7 +1,11 @@
+# task 1
+
 mom = "mari"
 dad = "dato"
 bro = "niko"
 print("my mom's name is " + mom +". my father's name is"+dad+" my siblings name is "+bro)
+
+# task 2
 
 a = 5 + 3
 print(a)
@@ -14,3 +18,5 @@ print(c)
 
 d = 17 // 4
 print(d)
+
+# task 
