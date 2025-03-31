@@ -10,7 +10,7 @@ food = "ხინკალი"
 age = 20
 year = 2025
 temperature = -5
-population = 3 8000 000
+population = 38000000
 score = 100
 
 height = 1.68
