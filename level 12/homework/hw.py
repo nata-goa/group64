@@ -6,7 +6,6 @@ print(5 == 3) #false
 print(5 != 3) #true4
 
 
-
 #NOT 
 print(not True)   #False
 print(not False)  #True
