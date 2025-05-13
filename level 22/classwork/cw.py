@@ -41,3 +41,4 @@ print("4-0:", sports[4:])
 
 print(":", sports[::-1])
 
+
