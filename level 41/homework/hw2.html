@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <title>რეგისტრაციის ფორმა</title>
+    <style>
+    form {
+        width: 300px;
+        margin: 40px auto;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    input[type="text"],
+    input[type="password"],
+    input[type="email"] {
+        border-radius: 8px;
+        border: 2px solid gray;
+        padding: 8px;
+        font-size: 16px;
+    }
+
+    button {
+        background-color: green;
+        color: white;
+        font-weight: bold;
+        padding: 10px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    button:hover {
+        background-color: darkgreen;
+    }
+    </style>
+
+    <h2 style="text-align: center;">რეგისტრაციის ფორმა</h2>
+    <form>
+    <input type="text" placeholder="სახელი" required>
+    <input type="text" placeholder="გვარი" required>
+    <input type="email" placeholder="ელფოსტა" required>
+    <input type="password" placeholder="პაროლი" required>
+    <button type="submit">რეგისტრაცია</button>
+    </form>
+
+</body>
+</html>
